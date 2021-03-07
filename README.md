@@ -16,13 +16,15 @@
 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<br><br>
+<br>
 
 ### Connect with me:
 
 [<img align="left" alt="aneriadani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aneriadani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aneriadani | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
+
+<br />
 
 <p><summary>GitHub Stats</summary>
 <img align="left" alt="aneriadani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aneriadani762&show_icons=true&hide_border=true" /></p>
@@ -34,3 +36,5 @@
 [linkedin]: www.linkedin.com/in/aneri-adani
 [hackerrank]: https://www.hackerrank.com/aneriadani
 
+<br />
+⭐️From [aneriadani762](https://github.com/aneriadani762)
