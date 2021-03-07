@@ -34,7 +34,8 @@
 [linkedin]: www.linkedin.com/in/aneri-adani
 [hackerrank]: https://www.hackerrank.com/aneriadani
 
-<br /><br />
+<br >
+<br >
 
 
 ⭐️From [aneriadani762](https://github.com/aneriadani762)
