@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Aneri Adani!👋</h1>
 
+![Profile view](https://github.com/aneriadani762/?username=aneriadani762&color=blue)
+![Visitor Count](https://profile-counter.glitch.me/{aneriadani762}/count.svg)
+
 ### About Me
 
 - 💻 Hi, I'm Aneri! I'm a Programmer from India!! I like coding in Python🐍.
@@ -26,7 +29,6 @@
 
 <br />
 
-<p><summary>GitHub Stats</summary>
 <img align="left" alt="aneriadani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aneriadani762&show_icons=true&hide_border=true" /></p>
 
 <br />
