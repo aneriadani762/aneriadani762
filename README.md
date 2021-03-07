@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ### Hi there, I'm Aneri Adani!👋
 
 ### About Me
 
-- 👨🏻‍💻 Hi, I'm Aneril! I'm a Programmer from India!! I like coding in Python🐍.
+- 💻 Hi, I'm Aneril! I'm a Programmer from India!! I like coding in Python🐍.
 - 🌱 I’m currently learning Web development. 
 - 💼 I’m currently pursuing B.E in Electronics and Telecommunication.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
@@ -17,7 +15,7 @@
 
 [<img align="left" alt="aneriadani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aneriadani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aneriadani" | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
+[<img align="left" alt="aneriadani | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
 
 <br />
 
