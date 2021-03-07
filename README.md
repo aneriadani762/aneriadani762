@@ -1,7 +1,6 @@
-<h1 align="center">Hi there, I'm Aneri Adani!👋</h1>
+<h1 align="center"> Hi there, I'm Aneri Adani!👋</h1>
 
-![Profile view](https://github.com/aneriadani762/?username=aneriadani762&color=blue)
-![Visitor Count](https://profile-counter.glitch.me/{aneriadani762}/count.svg)
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=aneriadani762&color=green" alt="aneriadani762"/> </p>
 
 ### About Me
 
