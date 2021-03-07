@@ -26,7 +26,7 @@
 [<img align="left" alt="aneriadani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aneriadani | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][Hackerrank]
 
-<br />
+<br /><br />
 
 <img align="left" alt="aneriadani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aneriadani762&show_icons=true&hide_border=true" /></p>
 
@@ -36,3 +36,9 @@
 [twitter]: https://twitter.com/aneriadani
 [linkedin]: www.linkedin.com/in/aneri-adani
 [hackerrank]: https://www.hackerrank.com/aneriadani
+
+<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+
+
+⭐️From [aneriadani762](https://github.com/aneriadani762)
