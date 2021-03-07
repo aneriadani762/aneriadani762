@@ -35,6 +35,3 @@
 [twitter]: https://twitter.com/aneriadani
 [linkedin]: www.linkedin.com/in/aneri-adani
 [hackerrank]: https://www.hackerrank.com/aneriadani
-
-<br />
-⭐️From [aneriadani762](https://github.com/aneriadani762)
