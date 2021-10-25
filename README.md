@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Aneri Adani!👋</h1>
 
 <p align="center"> <img src= "https://komarev.com/ghpvc/?username=aneriadani762&color=green" alt="aneriadani762"/> </p>
-<p align="center"> <a href="https://twitter.com/aneriadani" target="blank"><img src="https://img.shields.io/twitter/follow/aneriadani?logo=twitter&style=for-the-badge" alt="aneriadani" /></a> </p> 
+<p align="center"> <a href="https://twitter.com/aneriadani" target="blank"><img src="https://img.shields.io/twitter/follow/aneriadani?logo=twitter&style=for-the-badge" alt="aneriadani"/></a> </p> 
 
 ### About Me
 
