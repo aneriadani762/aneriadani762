@@ -8,7 +8,7 @@
 - 💻 Hi, I'm Aneri! I'm a Programmer from India!! I like coding in Python🐍.
 - 🌱 I’m currently learning Web development. 
 - 💼 I’m currently pursuing B.E in Electronics and Telecommunication.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 🥅 2022 Goals: Contribute to Open Source projects and explore various technologies.
 - 💬 Feel free to ask anything, I would love to answer and help. 
 - 📫 Email at @aneriadani12345@gmail.com
 - ⚡ Fun fact: I love to write.
